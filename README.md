@@ -12,3 +12,4 @@ Be sure to run paint.py with a python environemnt that has pandas, numpy and ope
 
 Carefully read the instructions that are printed when running paint.py
 
+Playground.ipynb is a junk file
